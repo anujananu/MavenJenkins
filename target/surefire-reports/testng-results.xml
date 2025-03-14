@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-14T15:41:47Z" name="Suite" finished-at="2025-03-14T15:41:47Z" duration-ms="22">
+    <groups>
+    </groups>
+    <test started-at="2025-03-14T15:41:47Z" name="test" finished-at="2025-03-14T15:41:47Z" duration-ms="22">
+      <class name="basic.JenkinsTest">
+        <test-method signature="tetsing()[pri:0, instance:basic.JenkinsTest@548a102f]" started-at="2025-03-14T21:11:47Z" name="tetsing" finished-at="2025-03-14T21:11:47Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsing -->
+        <test-method signature="tetsing2()[pri:0, instance:basic.JenkinsTest@548a102f]" started-at="2025-03-14T21:11:47Z" name="tetsing2" finished-at="2025-03-14T21:11:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsing2 -->
+        <test-method signature="tetsing1()[pri:0, instance:basic.JenkinsTest@548a102f]" started-at="2025-03-14T21:11:47Z" name="tetsing1" finished-at="2025-03-14T21:11:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsing1 -->
+      </class> <!-- basic.JenkinsTest -->
+    </test> <!-- test -->
+  </suite> <!-- Suite -->
+</testng-results>

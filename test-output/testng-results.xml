@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2025-03-11T16:21:49Z" finished-at="2025-03-11T16:21:49Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="32" started-at="2025-03-11T16:21:49Z" finished-at="2025-03-11T16:21:49Z">
+      <class name="basic.JenkinsTest">
+        <test-method status="PASS" signature="tetsing()[pri:0, instance:basic.JenkinsTest@1e397ed7]" name="tetsing" duration-ms="13" started-at="2025-03-11T21:51:49Z" finished-at="2025-03-11T21:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsing -->
+      </class> <!-- basic.JenkinsTest -->
+    </test> <!-- test -->
+  </suite> <!-- Suite -->
+</testng-results>
